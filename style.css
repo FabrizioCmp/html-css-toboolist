@@ -7,6 +7,7 @@
 
 header{
     height: 5rem;
+    padding-left: 2rem;
 }
 
 main{
@@ -16,6 +17,9 @@ main{
 }
 
 nav{
+    height: 3rem;
+    padding-left: 3rem;
+    padding-top: 0.7rem;
 
 }
 .inl-block{
@@ -26,4 +30,29 @@ nav{
     width: 720px;
     margin: auto;
     background-color: #FFFFFF;
+}
+
+.space{
+    margin-top: 0.1rem;
+}
+
+.task{
+    background-color: #84CDF1;
+    border-radius: 3px;
+    padding: 5px;
+    font-size: small;
+    font-weight: 500;
+    color: white;
+}
+
+
+.section{
+    border-radius: 3px;
+    border-color: lightgray;
+    border-style: solid;
+    border-width: 1px;
+    padding: 5px;
+    font-size: small;
+    font-weight: 500;
+    color: lightgray;
 }
