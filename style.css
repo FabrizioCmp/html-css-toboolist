@@ -24,8 +24,14 @@ nav{
     padding-top: 0.7rem;
 
 }
+
 .inl-block{
     display: inline-block;
+}
+
+.center{
+ height: 100%;
+ vertical-align: middle;
 }
 
 .container{
