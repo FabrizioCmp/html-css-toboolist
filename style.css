@@ -35,11 +35,13 @@ nav{
 }
 
 .space{
-    margin-top: 0.1rem;
+    margin-top: 1rem;
 }
-
+.space-05{
+    margin-top: 0.5rem;
+}
 .task{
-    background-color: #84CDF1;
+    background-color: #45ABEA;
     border-radius: 3px;
     padding: 5px;
     font-size: small;
@@ -61,4 +63,18 @@ nav{
 
 .lgray{
     color: #444851;
+}
+
+.padding{
+    padding-top: 2rem;
+    padding-left: 3rem;
+    padding-bottom: 2rem;
+}
+
+.tag{
+    border-radius: 10px;
+    background-color: #45ABEA;
+    color: white;
+    padding: 6px;
+    font-size: x-small;
 }
