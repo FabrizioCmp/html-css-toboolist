@@ -42,7 +42,7 @@ nav{
 }
 .task{
     background-color: #45ABEA;
-    border-radius: 3px;
+    border-radius: 4px;
     padding: 5px;
     font-size: small;
     font-weight: 500;
@@ -51,7 +51,7 @@ nav{
 
 
 .section{
-    border-radius: 3px;
+    border-radius: 4px;
     border-color: lightgray;
     border-style: solid;
     border-width: 1px;
@@ -78,3 +78,35 @@ nav{
     padding: 6px;
     font-size: x-small;
 }
+
+.vmark{
+    color: #64C0A9;
+    border-radius: 50%;
+    border-color: #64C0A9;
+    border-style: solid;
+    border-width: 1px;
+    font-size: x-small;
+    font-weight: 550;
+    margin-right: 5px;
+    display: inline-block;
+    height: 14px;
+    width: 14px;
+    padding-left: 1px;
+}
+
+.xmark{
+    color: red;
+    border-radius: 50%;
+    border-color: red;
+    border-style: solid;
+    border-width: 1px;
+    font-size: x-small;
+    font-weight: 550;
+    margin-right: 5px;
+    display: inline-block;
+    height: 14px;
+    width: 14px;
+    padding-left: 3px;
+}
+
+
